@@ -1,7 +1,7 @@
 
 # Homebrew Package Manager API
 
-This project is a Nest.js-based API that allows users to manage their Homebrew installed packages. Users can retrieve a list of installed packages or remove a package by its name.
+Brewligan is a Nest.js-based API that allows users to manage their Homebrew installed packages. Users can retrieve a list of installed packages or remove a package by its name.
 
 ## Features
 
